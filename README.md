@@ -5,7 +5,7 @@ AI-powered real-time market intelligence and direct market access platform for f
 ## Project structure
 
 ```text
-SIH2.0/
+ignite_hack/
 ├── assets/                 # Static assets and test images
 ├── backend/                # Python FastAPI backend
 ├── database/               # SQL schema, initialization and seed data
