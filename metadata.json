@@ -1,0 +1,10 @@
+{
+  "name": "AgriDirect Pulse",
+  "description": "Real-Time Market Intelligence and Direct Market Access Platform for Farmers",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
