@@ -1,6 +1,6 @@
-# AgriDirect Pulse
+# AgriDirect 
 
-AI-powered real-time market intelligence and direct market access platform for farmers and buyers.
+A digital marketplace that connects farmers directly with buyers, with market insights and AI-powered tools to support better selling decisions.
 
 ## Project structure
 
