@@ -65,6 +65,10 @@ Database SQL files are in `database/`:
 
 See `backend/README.md` for backend/database setup details.
 
+## AI Usage
+
+AI tools were used for coding assistance, content refinement and visual support.
+
 ## Team workflow
 
 See [`docs/TEAM_GIT_WORKFLOW.md`](docs/TEAM_GIT_WORKFLOW.md) for the recommended 4-member GitHub workflow.
